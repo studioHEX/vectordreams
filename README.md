@@ -3,7 +3,7 @@
 
 # Open-Source Max4Live Vector Synthesizer
 
-This is an open-source Max4Live instrument that brings vector synthesis to Ableton Live, inspired by the capabilities of the Korg Wavestate. It provides access to 77 wavetables, each built from 63 unique samples covering a diverse range of sonic themes. These themes include whale vocalizations, water, insects, electrical hums, speech, and more, derived from an extensive sound research project.
+This is an open-source Max4Live instrument that brings vector synthesis to Ableton Live, inspired by the capabilities of the Korg Wavestate. It provides access to 77 wavetables, each built from 63 unique samples covering a diverse range of sonic themes. These themes include whale vocalizations, water, insects, electrical hums, speech, and more, derived from an extensive sound research project. The folder containing all wavetables can be downloaded through [this link](https://drive.google.com/file/d/14dAMsVrwfxo4IePXVCO7FN251a8KPsU-/view?usp=drive_link) .
 
 ## Sound Source & Inspiration
 The sound material used in this instrument originates from a research expedition that captured one-second sound snippets continuously for ten days while hiking through the polar circle in northernmost Norway. The captured sound events were classified using YAMNet, and corresponding samples were sourced from Freesound.org to build a rich and evocative sonic palette.
